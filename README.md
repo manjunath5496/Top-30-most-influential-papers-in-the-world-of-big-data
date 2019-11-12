@@ -48,7 +48,11 @@
   
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-30-most-influential-papers-in-the-world-of-big-data/blob/master/bdd(25).pdf" style="text-decoration:none;"> What is Data Science? </a></b></li> 
   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-30-most-influential-papers-in-the-world-of-big-data/blob/master/bdd(26).pdf" style="text-decoration:none;"> The Dangers of Replication and a Solution</a></b></li>   
+    
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Top-30-most-influential-papers-in-the-world-of-big-data/blob/master/bdd(27).pdf" style="text-decoration:none;"> Data clustering: 50 years beyond K-means</a></b></li>   
   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Top-30-most-influential-papers-in-the-world-of-big-data/blob/master/bdd(28).pdf" style="text-decoration:none;">Q-Clouds: Managing Performance Interference Effects for QoS-Aware Clouds</a></b></li>   
 
 </ul>
 
